@@ -1,4 +1,4 @@
-lang=es
+lang=all
 
 ROOT=/data/zhangshaolei/StreamSpeech
 PREPROCESS_ROOT=$ROOT/preprocess_scripts
